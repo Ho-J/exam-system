@@ -1,0 +1,16 @@
+E:\VsSpace\MyBlog\P.DAL\bin\Debug\P.DAL.dll
+E:\VsSpace\MyBlog\P.DAL\bin\Debug\P.DAL.pdb
+E:\VsSpace\MyBlog\P.DAL\bin\Debug\P.Model.dll
+E:\VsSpace\MyBlog\P.DAL\bin\Debug\P.Model.pdb
+E:\VsSpace\MyBlog\P.DAL\obj\Debug\P.DAL.csprojAssemblyReference.cache
+E:\VsSpace\MyBlog\P.DAL\obj\Debug\P.DAL.csproj.CopyComplete
+E:\VsSpace\MyBlog\P.DAL\obj\Debug\P.DAL.dll
+E:\VsSpace\MyBlog\P.DAL\obj\Debug\P.DAL.pdb
+E:\VsSpace\mk\MyBlog\P.DAL\bin\Debug\P.DAL.dll
+E:\VsSpace\mk\MyBlog\P.DAL\bin\Debug\P.DAL.pdb
+E:\VsSpace\mk\MyBlog\P.DAL\bin\Debug\P.Model.dll
+E:\VsSpace\mk\MyBlog\P.DAL\bin\Debug\P.Model.pdb
+E:\VsSpace\mk\MyBlog\P.DAL\obj\Debug\P.DAL.csprojAssemblyReference.cache
+E:\VsSpace\mk\MyBlog\P.DAL\obj\Debug\P.DAL.csproj.CopyComplete
+E:\VsSpace\mk\MyBlog\P.DAL\obj\Debug\P.DAL.dll
+E:\VsSpace\mk\MyBlog\P.DAL\obj\Debug\P.DAL.pdb

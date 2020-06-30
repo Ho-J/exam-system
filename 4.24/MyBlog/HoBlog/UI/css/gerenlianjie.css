@@ -1,0 +1,33 @@
+﻿
+.grlj a {
+    font-size: 14px;
+    /*color: #FFF;*/
+    color: cornflowerblue;
+    color: black;
+    padding-right: 1em;
+    padding-left: 1em;
+    margin-left: 2px;
+    display: block;
+    text-decoration: none;
+}
+
+.grlj ul {
+    float: left;
+    line-height: 34px;
+    height: 34px;
+    margin-left: -2px;
+}
+
+.grlj li {
+    float: left;
+    background-color: gold;
+    margin-left: 4px;
+    margin-top: 10px;
+    Border-radius: 8px;
+}
+
+.grlj {
+    position: absolute;
+    left: 1300px;
+    top: 30px;
+}

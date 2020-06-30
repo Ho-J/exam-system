@@ -1,0 +1,104 @@
+﻿body{
+    /*background-color:azure;*/
+}
+#tj {
+    /*border: 1px solid red;*/
+    margin-top: 20px;
+    margin-left: 150px;
+    /*display: table-cell;*/
+}
+#bbb {
+    /*border: 1px solid red;*/
+    width: 683px;
+    height:600px;
+     position:relative;
+     margin-left:650px;
+     background-color:aliceblue;
+    top: 0px;
+    left: 0px;
+}
+.inputkuang{
+    float:left;
+    
+}
+.qianzi {
+    float: left;
+    width: 150px;
+    text-align: right;
+    margin-right:20px;
+    font-size:24px;
+}
+.ts {
+    width: 30px;
+    height: 20px;
+    
+    /*border: 1px solid black;*/
+    float: left;
+}
+.in {
+
+    /*border: 1px solid red;*/
+    padding-top:20px;
+    
+}
+#headfont {
+    text-align: center;
+    font-size: 60px;
+    background-color: #96B97D;
+    color: white;
+}
+.kuangc{
+    height:24px;
+    width:200px;
+}
+.xiala {
+    float: left;
+    width: 100px;
+    height:30px;
+}
+#xialadiv {
+    float: left;
+    width: 110px;
+    border: 1px solid red;
+}
+.tijiao {
+    border-radius: 100px;
+    background-color: orange;
+    height: 70px;
+    width: 140px;
+    
+}
+
+
+#FileUpload {
+    /*border: 1px solid red;*/
+    height: 40px;
+    width: 220px;
+    float: left;
+    font-size: 20px;
+}
+/*#Label1 {
+    border: 1px solid red;
+    width:60px;
+    height:80px;
+}*/
+#zjimg {
+    position:absolute;
+    right:12px;
+    top:17px;
+    width: 100px;
+    height: 150px;
+}
+#sc {
+    /*border: 1px solid red;*/
+    float: left;
+    
+}
+#scinput {
+    font-size: 20px;
+}
+.ts{
+    width:140px;
+    margin-top:4px;
+    color:red;
+}

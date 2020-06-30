@@ -1,0 +1,59 @@
+﻿body {
+ 
+}
+
+#dl {
+    height: 400px;
+    width: 600px;
+    display: table-cell;
+    border-radius: 20px;
+    margin-left: 600px;
+    margin-top: 40px;
+    text-align: center;
+
+  
+}
+#biaoti {
+    /*height: 80px;*/
+    /*background-color: gainsboro;*/
+    font-size: 60px;
+    text-align: center;
+    
+}
+#kuang {
+    /*padding-left: 180px;*/
+    margin-top: 20px;
+ 
+   /*border: 2px double;*/
+    /*border-color: black;*/
+    /*background-color:aliceblue;*/
+}
+.tijiao {
+    border-radius: 100px;
+    background-color: orange;
+    height: 30px;
+    width: 50px;
+    
+}
+
+.in {
+    margin-top: 20px;
+    margin-left:200px;
+    /*border: 1px solid red;*/
+}
+
+a{
+    text-decoration:none;
+    color:brown;
+}
+
+.op {
+    float: left;
+    /*border: 1px solid red;*/
+}
+.ts {
+    font-size:12px;
+    color:red;
+    /*border: 1px solid red;*/
+    float: left;
+}

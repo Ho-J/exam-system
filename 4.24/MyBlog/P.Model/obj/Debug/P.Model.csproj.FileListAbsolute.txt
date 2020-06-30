@@ -1,0 +1,10 @@
+E:\VsSpace\MyBlog\P.Model\bin\Debug\P.Model.dll
+E:\VsSpace\MyBlog\P.Model\bin\Debug\P.Model.pdb
+E:\VsSpace\MyBlog\P.Model\obj\Debug\P.Model.dll
+E:\VsSpace\MyBlog\P.Model\obj\Debug\P.Model.pdb
+E:\VsSpace\MyBlog\P.Model\obj\Debug\P.Model.csprojAssemblyReference.cache
+E:\VsSpace\mk\MyBlog\P.Model\bin\Debug\P.Model.dll
+E:\VsSpace\mk\MyBlog\P.Model\bin\Debug\P.Model.pdb
+E:\VsSpace\mk\MyBlog\P.Model\obj\Debug\P.Model.dll
+E:\VsSpace\mk\MyBlog\P.Model\obj\Debug\P.Model.pdb
+E:\VsSpace\mk\MyBlog\P.Model\obj\Debug\P.Model.csprojAssemblyReference.cache
